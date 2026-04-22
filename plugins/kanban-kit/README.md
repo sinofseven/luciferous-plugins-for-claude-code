@@ -69,10 +69,19 @@ Claude Code 向け kanban ワークフロープラグイン。タスク管理に
 
 ## インストール
 
-このプラグインをローカルリポジトリからインストールする:
+### Marketplace 経由（推奨）
+
+このプラグインは Luciferous Plugins Marketplace に登録されています。
 
 ```bash
-claude plugin install /path/to/kanban-kit
+/plugin marketplace add sinofseven/luciferous-plugins-for-claude-code
+/plugin install kanban-kit@luciferous-plugins
 ```
 
-または、このリポジトリを公開した場合は URL 経由でインストールできる（将来対応予定）。
+### ローカルパス直指定
+
+ローカルリポジトリから直接インストールする場合:
+
+```bash
+/plugin install /path/to/luciferous-plugins-for-claude-code/plugins/kanban-kit
+```
