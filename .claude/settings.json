@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "luciferous-plugins": {
+      "source": {
+        "source": "directory",
+        "path": "./"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "kanban-kit@luciferous-plugins": true
+  }
+}
