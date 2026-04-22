@@ -2,7 +2,7 @@
 name: add-kanban
 description: kanban/ ディレクトリに新規タスクファイルを作成する。ユーザーが「kanban タスクを追加したい」「新しいタスクを起票したい」「/add-kanban」と言ったとき、またはタスクを作成してから /kanban を実行しようとしているときに使用する。
 effort: medium
-model: Haiku
+model: haiku
 ---
 
 `kanban/` に新規タスクファイルを作成するスキル。

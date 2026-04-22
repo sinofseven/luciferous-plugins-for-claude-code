@@ -3,7 +3,7 @@ name: add-report
 description: reports/ に新しい調査タスクファイルを作成します。タイトル・知りたいこと・目的を収集し、正しい連番でファイルを生成します。Use when the user wants to add a new report task, create a new investigation item, or says /add-report. Also trigger when the user says "report に追加", "調査タスクを作りたい", or similar.
 argument-hint: [title]
 effort: medium
-model: Haiku
+model: haiku
 ---
 
 reports/ に新しい調査タスクファイルを作成します。
