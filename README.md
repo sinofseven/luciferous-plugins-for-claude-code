@@ -28,4 +28,4 @@ Claude Code 向けプラグイン集。複数のプラグインを提供する M
 
 ## ライセンス
 
-MIT License © Yuta Natsume
+MIT License © sinofseven
