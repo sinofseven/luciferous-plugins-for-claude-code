@@ -1,0 +1,12 @@
+{
+  "name": "report-kit",
+  "version": "0.1.0",
+  "description": "ローカルドキュメント調査用の report ワークフロー（タスク追加・実行スキル、未完了リマインド hook）を提供するプラグイン",
+  "author": {
+    "name": "sinofseven"
+  },
+  "homepage": "https://github.com/sinofseven/luciferous-plugins-for-claude-code",
+  "repository": "https://github.com/sinofseven/luciferous-plugins-for-claude-code",
+  "license": "MIT",
+  "keywords": ["report", "research", "documentation", "workflow"]
+}

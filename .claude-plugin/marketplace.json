@@ -13,6 +13,13 @@
       "description": "Kanban ワークフロー一式（タスク追加・実行スキル、未完了リマインド hook）を提供するプラグイン",
       "category": "productivity",
       "keywords": ["kanban", "task-management", "workflow"]
+    },
+    {
+      "name": "report-kit",
+      "source": "./plugins/report-kit",
+      "description": "ローカルドキュメント調査用の report ワークフロー（タスク追加・実行スキル、未完了リマインド hook）を提供するプラグイン",
+      "category": "productivity",
+      "keywords": ["report", "research", "documentation", "workflow"]
     }
   ]
 }
