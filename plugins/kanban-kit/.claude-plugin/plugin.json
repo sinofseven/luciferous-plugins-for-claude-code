@@ -1,0 +1,6 @@
+{
+  "name": "kanban-kit",
+  "version": "0.1.0",
+  "description": "Kanban ワークフロー一式（タスク追加・実行スキル、未完了リマインド hook）を提供するプラグイン",
+  "repository": "https://github.com/sinofseven/luciferous-plugins-for-claude-code"
+}
